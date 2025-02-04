@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "Java00/ex03_",
         "Java00/ex02",
-        "Java00/ex01"
+        "Java00/ex01",
+        "vicarioj"
     ]
 }
