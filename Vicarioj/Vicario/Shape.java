@@ -1,4 +1,4 @@
-package Vicarioj;
+package Vicarioj.Lezione;
 
 public class Shape {
     private double area;

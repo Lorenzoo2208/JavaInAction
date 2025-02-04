@@ -1,4 +1,4 @@
-package Vicarioj;
+package Vicarioj.Vicario;
 
 public class Square extends Shape {
     private double edge;
@@ -11,7 +11,7 @@ public class Square extends Shape {
      public void setEdge(double edge) {
         System.out.println("Shape::setEdge()");
         this.edge = edge;
-        super.setArea(edge*edge);
+        super.setArea(area);
      }
 
      public double getArea(){
