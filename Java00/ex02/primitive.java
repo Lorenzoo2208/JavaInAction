@@ -1,5 +1,3 @@
-package JavaInAction.Java00.ex02;
-
 public class primitive {
     public static void main(String[] args) {
         int myInt = 42;
